@@ -1,0 +1,160 @@
+html{font-size: 100%;}
+
+body{
+    text-align: center;
+    margin: auto;
+    font-family: 'poppins';font-size: 22px;
+  
+}
+header img{
+    height: 2rem;
+  padding: 2em 10.5em; 
+  margin-left: -2.5em;
+
+    background-color: black    
+
+}
+
+.title{
+ background-image: url(../img/banner.jpg);
+ width: 300px;
+ height: 300px;
+ padding: 0.5em 3.5em;
+
+ background-size:cover;
+ background-position: center;
+}
+
+.title h1{
+    font-size: 1.5em;
+    color: rgb(0,160,198);
+    font-weight: bolder;
+    margin-top: 1em;
+    
+}
+
+.title p{
+    line-height: 25px;
+    font-size: medium;
+    margin-left: 1em;    
+    
+}
+
+#partiamo{
+  
+    border-color: rgb(255, 102, 0);
+    color: white;
+    background-color: rgb(255, 102, 0);
+    width: 125px;
+    border: 2px solid rgb(255, 102, 0);
+    padding: 7px;
+    border-radius: 5px;
+    margin:auto;
+    margin-top: 20px;
+    padding-right: 1em;
+}
+
+.main h2{
+    color:  rgb(0,160,198);
+    font-weight: bolder;
+    font-size: medium;
+    margin-top: 3em;;
+    margin-bottom: 1.5em;
+}
+
+.main p{
+    font-size: medium;
+   padding-right: 10%;
+   padding-left: 10%;
+    line-height: 25px ;
+}
+
+.main div{
+    background-image: url(../img/notebook.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+    margin-left: 5.5em;
+    margin-top: 1em;
+}
+.garanzia{
+    background-color: #f04c2f;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    width: 300px;
+    padding: 2em 5em;
+}
+
+.garanzia p{
+font-size: small;
+font-weight: lighter;
+font-style: oblique;
+
+}
+
+.foto img{
+   width:400px;
+   margin-top: 2em;
+}
+
+.foto h3{
+    color:  rgb(0,160,198);
+    font-weight: bolder;
+    font-size: medium;
+    margin-top: 1em;;
+    margin-bottom: 1.5em;
+
+}
+
+.foto p{
+    font-size: medium;
+    padding-right: 10%;
+    padding-left: 10%;
+     line-height: 25px ;
+}
+
+.foto p:last-of-type{
+    margin-bottom: 3em;
+}
+
+.contatti{
+    background-color: #25a2c3;;
+    padding: 1em;
+}
+
+.contatti h2{
+
+ font-size: 1.5em;
+color: white;
+font-weight: bolder;
+line-height: 2em;
+
+}
+
+.contatti p{
+    color:#c8e7f0;
+    font-size: small;
+    line-height: 1.5em;
+
+}
+
+.contatti a{
+    color:#c8e7f0;
+}
+footer{
+    background-color: #25a2c3;
+    font-size: small;
+    color: #c8e7f0;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-top:1px solid white;
+
+}
+
+footer a{
+    color: #c8e7f0;
+}
